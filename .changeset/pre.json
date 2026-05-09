@@ -50,6 +50,7 @@
     "curvy-bulldogs-check",
     "dirty-teachers-tease",
     "fair-ducks-think",
+    "fair-moose-attack",
     "fix-configpath-programmatic-api",
     "fix-login-refresh-and-swr-polling",
     "fix-search-ui",
@@ -59,6 +60,7 @@
     "honest-lizards-exercise",
     "hot-ads-notice",
     "improve-config-builder",
+    "lucky-ghosts-prove",
     "metal-masks-reflect",
     "metal-students-return",
     "migrate-lodash-to-lodash-es",
@@ -73,6 +75,7 @@
     "quick-experts-knock",
     "real-vans-sin",
     "remove-deprecated-aes-encryption",
+    "remove-self-path",
     "remove-test-helper-from-build",
     "replace-got-cjs-node-fetch",
     "rotten-walls-happen",
@@ -89,6 +92,7 @@
     "ten-cougars-flash",
     "thick-pigs-arrive",
     "tricky-coats-clap",
+    "twelve-lizards-lay",
     "twelve-rockets-fly",
     "twelve-zebras-wait",
     "unlucky-chefs-impress",
@@ -96,6 +100,7 @@
     "update-vitest-4",
     "vite-build-migration",
     "warm-pandas-glow",
-    "witty-apes-try"
+    "witty-apes-try",
+    "yaml-only-config"
   ]
 }
